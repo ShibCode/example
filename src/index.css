@@ -1,0 +1,21 @@
+body {
+  background-color: #333;
+  height: 1400px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background: red;
+}
